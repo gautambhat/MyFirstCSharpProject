@@ -1,0 +1,14 @@
+/Users/gautam/Repos/throwaway/MyFirstCSharpProject/bin/Debug/net7.0/MyFirstCSharpProject
+/Users/gautam/Repos/throwaway/MyFirstCSharpProject/bin/Debug/net7.0/MyFirstCSharpProject.deps.json
+/Users/gautam/Repos/throwaway/MyFirstCSharpProject/bin/Debug/net7.0/MyFirstCSharpProject.runtimeconfig.json
+/Users/gautam/Repos/throwaway/MyFirstCSharpProject/bin/Debug/net7.0/MyFirstCSharpProject.dll
+/Users/gautam/Repos/throwaway/MyFirstCSharpProject/bin/Debug/net7.0/MyFirstCSharpProject.pdb
+/Users/gautam/Repos/throwaway/MyFirstCSharpProject/obj/Debug/net7.0/MyFirstCSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gautam/Repos/throwaway/MyFirstCSharpProject/obj/Debug/net7.0/MyFirstCSharpProject.AssemblyInfoInputs.cache
+/Users/gautam/Repos/throwaway/MyFirstCSharpProject/obj/Debug/net7.0/MyFirstCSharpProject.AssemblyInfo.cs
+/Users/gautam/Repos/throwaway/MyFirstCSharpProject/obj/Debug/net7.0/MyFirstCSharpProject.csproj.CoreCompileInputs.cache
+/Users/gautam/Repos/throwaway/MyFirstCSharpProject/obj/Debug/net7.0/MyFirstCSharpProject.dll
+/Users/gautam/Repos/throwaway/MyFirstCSharpProject/obj/Debug/net7.0/refint/MyFirstCSharpProject.dll
+/Users/gautam/Repos/throwaway/MyFirstCSharpProject/obj/Debug/net7.0/MyFirstCSharpProject.pdb
+/Users/gautam/Repos/throwaway/MyFirstCSharpProject/obj/Debug/net7.0/MyFirstCSharpProject.genruntimeconfig.cache
+/Users/gautam/Repos/throwaway/MyFirstCSharpProject/obj/Debug/net7.0/ref/MyFirstCSharpProject.dll
