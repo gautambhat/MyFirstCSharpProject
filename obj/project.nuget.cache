@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "UjI9mBRw6Q7LvQk80PNqi7o312B7Mi3CYso0iAvWntpoYMqbc+pl1NvWNfzM6AfRp6p+SADPFQuO4LfpnoRVIQ==",
+  "dgSpecHash": "Aa2O3PoWfoSELifT91U7lJLbaQYW+zYPrmcOuzrp9LZi33LLQ8V/4afsx7rsF7CIbdUVPYZ31cs7JEuBXIEsVg==",
   "success": true,
   "projectFilePath": "/Users/gautam/Repos/throwaway/MyFirstCSharpProject/MyFirstCSharpProject.csproj",
   "expectedPackageFiles": [
     "/Users/gautam/.nuget/packages/jquery/3.3.1/jquery.3.3.1.nupkg.sha512",
+    "/Users/gautam/.nuget/packages/microsoft.build.tasks.git/1.1.1/microsoft.build.tasks.git.1.1.1.nupkg.sha512",
     "/Users/gautam/.nuget/packages/microsoft.csharp/4.3.0/microsoft.csharp.4.3.0.nupkg.sha512",
     "/Users/gautam/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/gautam/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/gautam/.nuget/packages/microsoft.sourcelink.common/1.1.1/microsoft.sourcelink.common.1.1.1.nupkg.sha512",
+    "/Users/gautam/.nuget/packages/microsoft.sourcelink.github/1.1.1/microsoft.sourcelink.github.1.1.1.nupkg.sha512",
     "/Users/gautam/.nuget/packages/newtonsoft.json/10.0.1/newtonsoft.json.10.0.1.nupkg.sha512",
     "/Users/gautam/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",
     "/Users/gautam/.nuget/packages/system.collections.nongeneric/4.3.0/system.collections.nongeneric.4.3.0.nupkg.sha512",

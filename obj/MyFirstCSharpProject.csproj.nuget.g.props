@@ -12,8 +12,16 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="/Users/gautam/.nuget/packages/" />
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.sourcelink.common/1.1.1/build/Microsoft.SourceLink.Common.props" Condition="Exists('$(NuGetPackageRoot)microsoft.sourcelink.common/1.1.1/build/Microsoft.SourceLink.Common.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.build.tasks.git/1.1.1/build/Microsoft.Build.Tasks.Git.props" Condition="Exists('$(NuGetPackageRoot)microsoft.build.tasks.git/1.1.1/build/Microsoft.Build.Tasks.Git.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.sourcelink.github/1.1.1/build/Microsoft.SourceLink.GitHub.props" Condition="Exists('$(NuGetPackageRoot)microsoft.sourcelink.github/1.1.1/build/Microsoft.SourceLink.GitHub.props')" />
+  </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">/Users/gautam/.nuget/packages/newtonsoft.json/10.0.1</PkgNewtonsoft_Json>
+    <PkgMicrosoft_SourceLink_Common Condition=" '$(PkgMicrosoft_SourceLink_Common)' == '' ">/Users/gautam/.nuget/packages/microsoft.sourcelink.common/1.1.1</PkgMicrosoft_SourceLink_Common>
+    <PkgMicrosoft_Build_Tasks_Git Condition=" '$(PkgMicrosoft_Build_Tasks_Git)' == '' ">/Users/gautam/.nuget/packages/microsoft.build.tasks.git/1.1.1</PkgMicrosoft_Build_Tasks_Git>
+    <PkgMicrosoft_SourceLink_GitHub Condition=" '$(PkgMicrosoft_SourceLink_GitHub)' == '' ">/Users/gautam/.nuget/packages/microsoft.sourcelink.github/1.1.1</PkgMicrosoft_SourceLink_GitHub>
     <PkgjQuery Condition=" '$(PkgjQuery)' == '' ">/Users/gautam/.nuget/packages/jquery/3.3.1</PkgjQuery>
   </PropertyGroup>
 </Project>
